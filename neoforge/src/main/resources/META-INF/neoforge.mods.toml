@@ -9,7 +9,7 @@ modId = "betterblockentities"
 version = "${version}"
 displayName = "BBE"
 
-logoFile = "assets/betterblockentities/icon.png"
+iconFile = "assets/betterblockentities/icon.png"
 
 authors = "Ceeden"
 credits = "Ceeden"
@@ -40,7 +40,7 @@ side = "CLIENT"
 [[dependencies.betterblockentities]]
 modId = "sodium"
 type = "required"
-versionRange = "[0.9.0,)"
+versionRange = "[0.9.3-beta.3,)"
 ordering = "NONE"
 side = "CLIENT"
 
